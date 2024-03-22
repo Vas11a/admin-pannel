@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/admin-pannel/static/css/main.69d4200c.css",
+    "main.js": "/admin-pannel/static/js/main.b61910b3.js",
+    "static/media/admin-icon.svg": "/admin-pannel/static/media/admin-icon.b4c3a250bcf6214d1248ba91d3197d12.svg",
+    "static/media/wrench.svg": "/admin-pannel/static/media/wrench.1dd69faf0c9e30c9f83c077e46aaaafb.svg",
+    "static/media/folder.svg": "/admin-pannel/static/media/folder.1c4c179dd40f542f22d0210893c93fad.svg",
+    "static/media/basket.svg": "/admin-pannel/static/media/basket.825f1dd1567cce1662337c57ef9ef303.svg",
+    "static/media/refresh.svg": "/admin-pannel/static/media/refresh.e6807c352b546ab90a1ab1e236608573.svg",
+    "static/media/find.svg": "/admin-pannel/static/media/find.c578f6523da7473b29277316eb442abd.svg",
+    "index.html": "/admin-pannel/index.html",
+    "main.69d4200c.css.map": "/admin-pannel/static/css/main.69d4200c.css.map",
+    "main.b61910b3.js.map": "/admin-pannel/static/js/main.b61910b3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.69d4200c.css",
+    "static/js/main.b61910b3.js"
+  ]
+}
