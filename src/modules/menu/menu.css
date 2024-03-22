@@ -1,0 +1,17 @@
+.menu_wrapper{
+    min-width: 200px;
+    flex: 1;
+    background: #3D68FF;
+}  
+
+.menu_btn{
+    @apply block mt-7 cursor-pointer text-blue-500 p-2 rounded-b-md rounded-tr-md bg-white text-xl font-semibold text-center
+}
+
+.menu_elem_cont{
+    @apply cursor-pointer flex items-center gap-3 p-3 px-4
+}
+
+.menu_elem{
+    @apply text-white text-xl font-semibold block
+}

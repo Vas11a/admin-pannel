@@ -1,0 +1,15 @@
+.findBtn{
+    width: 46px;
+    height: 46px; 
+    @apply cursor-pointer border border-gray-300 flex justify-center items-center bg-gray-50
+}
+
+.input{
+    @apply  w-1/4 min-w-64 text-xl border border-gray-300 p-2 px-3
+}
+
+
+.input:focus{
+    outline: none;
+    
+}

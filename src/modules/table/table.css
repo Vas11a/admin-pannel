@@ -1,0 +1,3 @@
+.tableTitle{
+    @apply flex-1 uppercase text-white text-lg font-semibold
+}

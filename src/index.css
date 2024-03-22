@@ -1,13 +1,29 @@
-body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.wrapper{
+    width: 100%;
+    max-width: 2400px;
+    overflow: hidden;
+    @apply m-auto flex min-h-screen
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+ 
+
+.content_wrapper{
+    flex: 7;
+}
+
+.companyName{
+    @apply border-b border-gray-300 p-5 text-right text-2xl text-black
+}
+
+.dash_page{
+    height: 100%;
+}
+
+.pages_container{
+    @apply dash_page p-7 bg-gray-100
 }
