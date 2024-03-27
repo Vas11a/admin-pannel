@@ -17,7 +17,7 @@
 }
 
 .companyName{
-    @apply border-b border-gray-300 p-5 text-right text-2xl text-black
+    @apply border-b border-gray-300 p-4 sm:p-5 text-right text-2xl text-black flex flex-col-reverse gap-5 items-start sm:flex-row sm:justify-between sm:items-center
 }
 
 .dash_page{
@@ -25,5 +25,5 @@
 }
 
 .pages_container{
-    @apply dash_page p-7 bg-gray-100
+    @apply dash_page p-4 sm:p-7 bg-gray-100
 }

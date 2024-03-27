@@ -6,7 +6,7 @@ import Tip from './Tip'
 
 export default function Tips() {
     return (
-        <div className=' flex justify-between pt-10'>
+        <div className=' flex justify-center md:justify-between flex-wrap gap-5 pt-10'>
             <Tip text="single day queue" amount="123" color="bg-green-400" img={wrench} />
             <Tip text="multi day queue" amount="21" color="bg-green-400" img={wrench} />
             <Tip text="detales" amount="123" color="bg-yellow-400" img={folder} />

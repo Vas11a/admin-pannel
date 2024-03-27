@@ -8,6 +8,10 @@
     @apply  w-1/4 min-w-64 text-xl border border-gray-300 p-2 px-3
 }
 
+.select{
+    @apply  w-fit min-w-0 bg-gray-100
+}
+
 
 .input:focus{
     outline: none;
