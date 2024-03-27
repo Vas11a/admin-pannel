@@ -1,10 +1,12 @@
 {
   "files": {
-    "main.css": "/admin-pannel/static/css/main.4d884528.css",
-    "main.js": "/admin-pannel/static/js/main.35d365f9.js",
+    "main.css": "/admin-pannel/static/css/main.9dda8c28.css",
+    "main.js": "/admin-pannel/static/js/main.e7df47cb.js",
     "static/media/admin-icon.svg": "/admin-pannel/static/media/admin-icon.b4c3a250bcf6214d1248ba91d3197d12.svg",
-    "static/media/trash.svg": "/admin-pannel/static/media/trash.8d8e487a3c4791611c9a50cc999f34a8.svg",
+    "static/media/db.svg": "/admin-pannel/static/media/db.5752294c7427c5bbc43e1b0b2469d5d3.svg",
+    "static/media/trash.svg": "/admin-pannel/static/media/trash.9316f07b493a487510acaf6066880d7e.svg",
     "static/media/wrench.svg": "/admin-pannel/static/media/wrench.1dd69faf0c9e30c9f83c077e46aaaafb.svg",
+    "static/media/scan.svg": "/admin-pannel/static/media/scan.4452329dd7d737cdb0af11d88fad51aa.svg",
     "static/media/folder.svg": "/admin-pannel/static/media/folder.1c4c179dd40f542f22d0210893c93fad.svg",
     "static/media/save.svg": "/admin-pannel/static/media/save.82956760d8d34eaf8c1df6a35dd8037b.svg",
     "static/media/update.svg": "/admin-pannel/static/media/update.bfd4970c635b5db27ba5946d10afcd43.svg",
@@ -13,13 +15,15 @@
     "static/media/add.svg": "/admin-pannel/static/media/add.40420e7a248b92fafeaf5c63a232228d.svg",
     "static/media/find.svg": "/admin-pannel/static/media/find.c578f6523da7473b29277316eb442abd.svg",
     "static/media/backArr.svg": "/admin-pannel/static/media/backArr.e0d9d2a803abc6e24f19e019291eb471.svg",
+    "static/media/print.svg": "/admin-pannel/static/media/print.8b9e33be26c0e05d56ca288952f31192.svg",
     "index.html": "/admin-pannel/index.html",
+    "static/media/menu.svg": "/admin-pannel/static/media/menu.22a05970d93e0f98250a9ec63d516662.svg",
     "static/media/threedot.svg": "/admin-pannel/static/media/threedot.3e10dd7cfbf3847dbfe88047825c95e2.svg",
-    "main.4d884528.css.map": "/admin-pannel/static/css/main.4d884528.css.map",
-    "main.35d365f9.js.map": "/admin-pannel/static/js/main.35d365f9.js.map"
+    "main.9dda8c28.css.map": "/admin-pannel/static/css/main.9dda8c28.css.map",
+    "main.e7df47cb.js.map": "/admin-pannel/static/js/main.e7df47cb.js.map"
   },
   "entrypoints": [
-    "static/css/main.4d884528.css",
-    "static/js/main.35d365f9.js"
+    "static/css/main.9dda8c28.css",
+    "static/js/main.e7df47cb.js"
   ]
 }
