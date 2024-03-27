@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/admin-pannel/static/css/main.9dda8c28.css",
-    "main.js": "/admin-pannel/static/js/main.e7df47cb.js",
+    "main.css": "/admin-pannel/static/css/main.ae3739e1.css",
+    "main.js": "/admin-pannel/static/js/main.8fd1a66f.js",
     "static/media/admin-icon.svg": "/admin-pannel/static/media/admin-icon.b4c3a250bcf6214d1248ba91d3197d12.svg",
     "static/media/db.svg": "/admin-pannel/static/media/db.5752294c7427c5bbc43e1b0b2469d5d3.svg",
     "static/media/trash.svg": "/admin-pannel/static/media/trash.9316f07b493a487510acaf6066880d7e.svg",
@@ -19,11 +19,11 @@
     "index.html": "/admin-pannel/index.html",
     "static/media/menu.svg": "/admin-pannel/static/media/menu.22a05970d93e0f98250a9ec63d516662.svg",
     "static/media/threedot.svg": "/admin-pannel/static/media/threedot.3e10dd7cfbf3847dbfe88047825c95e2.svg",
-    "main.9dda8c28.css.map": "/admin-pannel/static/css/main.9dda8c28.css.map",
-    "main.e7df47cb.js.map": "/admin-pannel/static/js/main.e7df47cb.js.map"
+    "main.ae3739e1.css.map": "/admin-pannel/static/css/main.ae3739e1.css.map",
+    "main.8fd1a66f.js.map": "/admin-pannel/static/js/main.8fd1a66f.js.map"
   },
   "entrypoints": [
-    "static/css/main.9dda8c28.css",
-    "static/js/main.e7df47cb.js"
+    "static/css/main.ae3739e1.css",
+    "static/js/main.8fd1a66f.js"
   ]
 }
