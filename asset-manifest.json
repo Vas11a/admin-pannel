@@ -1,8 +1,7 @@
 {
   "files": {
-    "main.css": "/admin-pannel/static/css/main.ae3739e1.css",
-    "main.js": "/admin-pannel/static/js/main.8fd1a66f.js",
-    "static/media/admin-icon.svg": "/admin-pannel/static/media/admin-icon.b4c3a250bcf6214d1248ba91d3197d12.svg",
+    "main.css": "/admin-pannel/static/css/main.2db29b77.css",
+    "main.js": "/admin-pannel/static/js/main.b9f9ca6a.js",
     "static/media/db.svg": "/admin-pannel/static/media/db.5752294c7427c5bbc43e1b0b2469d5d3.svg",
     "static/media/trash.svg": "/admin-pannel/static/media/trash.9316f07b493a487510acaf6066880d7e.svg",
     "static/media/wrench.svg": "/admin-pannel/static/media/wrench.1dd69faf0c9e30c9f83c077e46aaaafb.svg",
@@ -11,19 +10,21 @@
     "static/media/save.svg": "/admin-pannel/static/media/save.82956760d8d34eaf8c1df6a35dd8037b.svg",
     "static/media/update.svg": "/admin-pannel/static/media/update.bfd4970c635b5db27ba5946d10afcd43.svg",
     "static/media/basket.svg": "/admin-pannel/static/media/basket.825f1dd1567cce1662337c57ef9ef303.svg",
+    "static/media/admin-icon.svg": "/admin-pannel/static/media/admin-icon.301e22374926b7436963ffa7388b0751.svg",
     "static/media/refresh.svg": "/admin-pannel/static/media/refresh.e6807c352b546ab90a1ab1e236608573.svg",
     "static/media/add.svg": "/admin-pannel/static/media/add.40420e7a248b92fafeaf5c63a232228d.svg",
+    "static/media/findW.svg": "/admin-pannel/static/media/findW.c363d5287452b2c386064ee840742ccf.svg",
     "static/media/find.svg": "/admin-pannel/static/media/find.c578f6523da7473b29277316eb442abd.svg",
     "static/media/backArr.svg": "/admin-pannel/static/media/backArr.e0d9d2a803abc6e24f19e019291eb471.svg",
     "static/media/print.svg": "/admin-pannel/static/media/print.8b9e33be26c0e05d56ca288952f31192.svg",
     "index.html": "/admin-pannel/index.html",
     "static/media/menu.svg": "/admin-pannel/static/media/menu.22a05970d93e0f98250a9ec63d516662.svg",
     "static/media/threedot.svg": "/admin-pannel/static/media/threedot.3e10dd7cfbf3847dbfe88047825c95e2.svg",
-    "main.ae3739e1.css.map": "/admin-pannel/static/css/main.ae3739e1.css.map",
-    "main.8fd1a66f.js.map": "/admin-pannel/static/js/main.8fd1a66f.js.map"
+    "main.2db29b77.css.map": "/admin-pannel/static/css/main.2db29b77.css.map",
+    "main.b9f9ca6a.js.map": "/admin-pannel/static/js/main.b9f9ca6a.js.map"
   },
   "entrypoints": [
-    "static/css/main.ae3739e1.css",
-    "static/js/main.8fd1a66f.js"
+    "static/css/main.2db29b77.css",
+    "static/js/main.b9f9ca6a.js"
   ]
 }
